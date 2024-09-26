@@ -1,0 +1,23 @@
+h1 {
+    color: blue;
+    background-color: black;
+}
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+li {
+    font-size: 20px;
+}
+h2 {
+    color: red;
+    font-size: 25px
+}
+.description.lasagna {
+    font-weight: bold;
+    color: aqua;
+    background-color: pink;
+    font-size: 20px;
+}
+.ingredient.list {
+    color: blueviolet;
+}
